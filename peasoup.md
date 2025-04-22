@@ -1,5 +1,5 @@
 #Ingrediatnts
 -peas
--onions
+-spring onions
 -potatos
 #Instructions
